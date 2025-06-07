@@ -5,7 +5,6 @@
 - 📫 How to reach me
 -  [ email ]{ lokeshrathore428@gmail.com}
 -  [linkedin]{www.linkedin.com/in/lokesh-rathore-207138259}
--  [upwork and fiver ]{ lokesh rathore/indore}
 - 😄 Pronouns:HE/him lokesh rathore
 - ⚡ Fun fact:  I love to solve real world problem with data. 
 
